@@ -3,7 +3,7 @@
 <div>
 <h2> Hi, I'm Divyansh Agarwal! <img src="https://github.com/Divyansh12/Divyansh12/assets/31319271/ef8351ef-9779-4584-9bdb-0d26817528f4" width="40"></h2>
 <img align='right' src="https://github.com/Divyansh12/Divyansh12/assets/31319271/bf5f41bc-2aa0-41ff-a64e-f42d39cb9c0c" width="230">
-<p><em>Software Enginner from <a href="https://bvcoend.ac.in/">Bharati Vidyapeeth College Of Engineering</a><img src="https://github.com/Divyansh12/Divyansh12/assets/31319271/a555f3c4-01e8-49e3-94fd-e0a569c49b9d" width="40"></br>Data Engineer at <a href="https://www.tcs.com">Tata Consultancy Services</a><img src="https://github.com/Divyansh12/Divyansh12/assets/31319271/31422748-fa4e-4b9a-b9ff-74bc879784b7" width="40"> 
+<p><em>Software Enginner from <a href="https://bvcoend.ac.in/">Bharati Vidyapeeth College Of Engineering</a><img src="https://github.com/Divyansh12/Divyansh12/assets/31319271/a555f3c4-01e8-49e3-94fd-e0a569c49b9d" width="40"></br>Software Engineer at <a href="https://www.tcs.com">Tata Consultancy Services</a><img src="https://github.com/Divyansh12/Divyansh12/assets/31319271/31422748-fa4e-4b9a-b9ff-74bc879784b7" width="40"> 
 </em></p>
 </div>
 
